@@ -14,7 +14,7 @@
                     <tr>
                         <th>Department</th>
                         <th>Year</th>
-                        <th>Semistar</th>
+                        <th>Semester</th>
                         <th>Course Years</th>
                         <th width="17%">Actions</th>
                     </tr>
