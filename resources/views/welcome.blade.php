@@ -27,7 +27,7 @@
                 </div>
             </div>
         </div>
-        <div class="parallax">
+        <div class="parallax  brown   darken-4">
             <img src="{{ asset("img/bg5.jpg") }}" id="clg-img" alt="Unsplashed background">
         </div>
     </div>
@@ -200,9 +200,11 @@
                         <h2 class="center brown-text">
                             <i class="material-icons">timer</i>
                         </h2>
-                        <h5 class="center">Speeds up Attendance</h5>
+                        <h5 class="center">Login</h5>
 
-                        <p class="light"></p>
+                        <p class="light">Create login credentials by providing your name, phone number,
+                            and email. You will receive an email from with an authentication 
+                            link once you have been approved by the Admin. </p>
                     </div>
                 </div>
 
@@ -211,14 +213,11 @@
                         <h2 class="center brown-text">
                             <i class="material-icons">gesture</i>
                         </h2>
-                        <h5 class="center">User Experience Focused</h5>
+                        <h5 class="center">Attendance</h5>
 
-                        <p class="light">By utilizing experized skill from our teacher and huge pool of example and test
-                            cases, we were able to create a framework
-                            that incorporates components and automation that provide more easy of use and centralized
-                            control. Additionally, a
-                            single underlying responsive system across all platforms allow for a more unified user
-                            experience.</p>
+                        <p class="light">Student attendance is located within the Dashboard under 
+                            the 'Take Attendance' button. Every student must entered in individually by school
+                        department. </p>
                     </div>
                 </div>
 
@@ -227,11 +226,10 @@
                         <h2 class="center brown-text">
                             <i class="material-icons">settings</i>
                         </h2>
-                        <h5 class="center">Easy to work with</h5>
+                        <h5 class="center">View</h5>
 
-                        <p class="light">We have provided detailed documentation as well as live examples to help new
-                            users get started. We are also always open
-                            to feedback and can answer any questions a user may have about Attendance MS.</p>
+                        <p class="light">Visualizations are created in real-time, which allows staff 
+                            to observe class and student attendance.  </p>
                     </div>
                 </div>
             </div>
