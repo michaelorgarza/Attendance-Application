@@ -9,8 +9,7 @@
                     <img src="{{ asset("/img/Tict_logo.png") }}" alt="img-responsive"
                          class="img-responsive header center animated bounceInDown">
                 </div>
-                <h1 class="header center teal-text text-lighten-4 res-font animated bounceInRight">Techno India College
-                    Of Technology</h1>
+                <h1 class="header center teal-text text-lighten-4 res-font animated bounceInRight">AESA Prep Academy</h1>
                 <div class="row center">
                     <h5 class="header col s12 light animated bounceInLeft">Online Attendance System</h5>
                 </div>
@@ -203,9 +202,7 @@
                         </h2>
                         <h5 class="center">Speeds up Attendance</h5>
 
-                        <p class="light">We did most of the heavy lifting for you to provide a default settings that
-                            incorporate our custom components. Additionally,
-                            we refined the Ui and added all data to provide a smoother experience for users.</p>
+                        <p class="light"></p>
                     </div>
                 </div>
 
