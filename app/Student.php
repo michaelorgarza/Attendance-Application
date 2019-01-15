@@ -52,24 +52,24 @@ class Student
 
     public static function get_total_attendence_of_student($student_id)
     {
-        /*
-         * attendence
+        
+         //* attendence
          
         $query = "SELECT count(student_attendence.active_day_id)  AS attn
         from active_day
         join student_attendence  Using(active_day_id)
         WHERE active_day.batch_no = ? AND student_attendence.student_id = ?
 		group by student_attendence.student_id,active_day.active_day_id;";
-		*/
-        $query = "SELECT SUM(mark_count) AS attn
-				FROM student_attendence
-				JOIN
-					active_day USING(active_day_id)
-                WHERE student_id = ? ";
-        $r = DB::select($query, [$student_id]);
-        if (count($r) < 1 || $r == null) return 0;
-        if ($r[0]->attn == null) return 0;
-        return $r[0]->attn;
+		
+        // $query = "SELECT SUM(mark_count) AS attn
+		// 		FROM student_attendence
+		// 		JOIN
+		// 			active_day USING(active_day_id)
+        //         WHERE student_id = ? ";
+        // $r = DB::select($query, [$student_id]);
+        // if (count($r) < 1 || $r == null) return 0;
+        // if ($r[0]->attn == null) return 0;
+        // return $r[0]->attn;
     }
 
     public static function get_total_attendence_of_student_by_sem($student_id, $batch_no, $sem_no)
