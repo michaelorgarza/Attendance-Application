@@ -2,14 +2,18 @@
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
-                <h5 class="white-text">Company Bio</h5>
-                <p class="grey-text text-lighten-4">We are a team of college students working on this project like
-                    it's our full time job. Any amount would help support
-                    and continue development on this project and is greatly appreciated.
+                <h5 class="white-text">AESA Prep Academy</h5>
+                <p class="grey-text text-lighten-4">We are a 1st-12th grade 
+                    college preparatory school in Austin, TX offering 
+                    both flexible and traditional schedules to 
+                    accommodate the unique needs of our individual 
+                    students. Accredited by SACS and NCAA approved, 
+                    AESA provides students the support they need to 
+                    fulfill their dreams while achieving academic excellence.
                 </p>
             </div>
             <div class="col l3 s12">
-                <h5 class="white-text">Core</h5>
+                <h5 class="white-text">Core Modules</h5>
                 <ul>
                     <li>
                         <div class="chip">
@@ -50,7 +54,7 @@
                 </ul>
             </div>
             <div class="col l3 s12">
-                <h5 class="white-text">Supporting</h5>
+                <h5 class="white-text">Supporting Modules</h5>
                 <ul>
                     <li>
                         <div class="chip">
@@ -94,8 +98,8 @@
     </div>
     <div class="footer-copyright">
         <div class="container">
-            Made by
-            <a class="brown-text text-lighten-3" href="#">Sourav Das</a>
+            Created by 
+            <a class="brown-text text-lighten-3" href="#">Garza, M. A. </a>
         </div>
     </div>
 </footer>
