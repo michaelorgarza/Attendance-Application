@@ -98,8 +98,8 @@
     </div>
     <div class="footer-copyright">
         <div class="container">
-            Created by Garza, M. A. 
-            <a class="brown-text text-lighten-3" href="#">mgarza@aesaprepacademy</a>
+            Created by Garza, M. A.    : 
+            <a class="brown-text text-lighten-3" href="#">mgarza@aesaprepacademy.com</a>
         </div>
     </div>
 </footer>
