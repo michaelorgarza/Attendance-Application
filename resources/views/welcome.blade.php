@@ -9,7 +9,7 @@
                     <img src="{{ asset("/img/Tict_logo.png") }}" alt="img-responsive"
                          class="img-responsive header center animated bounceInDown">
                 </div>
-                <h1 class="header center teal-text text-lighten-4 res-font animated bounceInRight">AESA Prep Academy</h1>
+                <h1 class="header center teal-text text-lighten-4 res-font animated bounceInRight"></h1>
                 <div class="row center">
                     <h5 class="header col s12 light animated bounceInLeft">Online Attendance System</h5>
                 </div>
