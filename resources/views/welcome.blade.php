@@ -202,9 +202,9 @@
                         </h2>
                         <h5 class="center">Login</h5>
 
-                        <p class="light">Create login credentials by providing your name, phone number,
-                            and email. You will receive an email from with an authentication 
-                            link once you have been approved by the Admin. </p>
+                        <p class="light">Create login credentials by providing your name, 
+                            phone number,and email. You will receive an email from with a link to authenticate 
+                            your account once you have been approved by the Admin. </p>
                     </div>
                 </div>
 
