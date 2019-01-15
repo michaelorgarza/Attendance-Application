@@ -198,7 +198,7 @@
                 <div class="col s12 m4">
                     <div class="icon-block">
                         <h2 class="center brown-text">
-                            <i class="material-icons">timer</i>
+                            <i class="material-icons">settings</i>
                         </h2>
                         <h5 class="center">Login</h5>
 
@@ -211,7 +211,7 @@
                 <div class="col s12 m4">
                     <div class="icon-block">
                         <h2 class="center brown-text">
-                            <i class="material-icons">gesture</i>
+                            <i class="material-icons">timer</i>
                         </h2>
                         <h5 class="center">Attendance</h5>
 
@@ -224,7 +224,7 @@
                 <div class="col s12 m4">
                     <div class="icon-block">
                         <h2 class="center brown-text">
-                            <i class="material-icons">settings</i>
+                            <i class="material-icons">gesture</i>
                         </h2>
                         <h5 class="center">View</h5>
 
