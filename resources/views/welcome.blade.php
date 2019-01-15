@@ -15,7 +15,7 @@
                 </div>
                 <div class="row center animated bounceInUp">
                     @if( Utility::is_loged_in() )
-                        <a href="{{route('home')}}" class="btn-large waves-effect waves-light teal lighten-1">
+                        <a href="{{route('home')}}" class="btn-large waves-effect waves-red teal lighten-1">
                             Dashboard
                         </a>
                     @else
