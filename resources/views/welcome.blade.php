@@ -27,7 +27,7 @@
                 </div>
             </div>
         </div>
-        <div class="parallax  brown   darken-4">
+        <div class="parallax">
             <img src="{{ asset("img/bg5.jpg") }}" id="clg-img" alt="Unsplashed background">
         </div>
     </div>
