@@ -27,7 +27,7 @@
                 </div>
             </div>
         </div>
-        <div class="parallax  brown   darken-4">
+        <div class="parallax  brown   darken-1">
             <img src="{{ asset("img/bg5.jpg") }}" id="clg-img" alt="Unsplashed background">
         </div>
     </div>
@@ -185,7 +185,7 @@
                 </div>
             </div>
         </div>
-        <div class="parallax brown   darken-4">
+        <div class="parallax">
             <img src="{{ asset("img/bg10.jpg") }}" alt="Unsplashed background img 2">
         </div>
     </div>
@@ -203,7 +203,8 @@
                         <h5 class="center">Login</h5>
 
                         <p class="light">Create login credentials by providing your name, 
-                            phone number,and email. You will receive an email from with a link to authenticate 
+                            phone number,
+                            and email. You will receive an email from with a link to authenticate 
                             your account once you have been approved by the Admin. </p>
                     </div>
                 </div>
