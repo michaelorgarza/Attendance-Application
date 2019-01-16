@@ -67,7 +67,6 @@
                     
                     @foreach ($students as $student)
                     <tr>
-                        <td>{{ $student->student_roll }}</td>
                         <td>{{ $student->student_name }}</td>
                         @if($total_classes)
                         <td>{{ round($student->attn/$total_classes*100,2) }} %</td>
