@@ -43,7 +43,7 @@
 				  		Semester Length ( in days )
 				  	</label>
 				  	<div class="col-md-4 range-field">
-						<input name="semLength" id="semLength" type="range" min="156" max="187" step="0.5" required>
+						<input name="semLength" id="semLength" type="range" min="90" max="151" step="0.5" required>
 				  	</div>
 				</div>
 
