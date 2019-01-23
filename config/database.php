@@ -43,7 +43,7 @@ return [
         'mysql' => [
             'driver' => 'mysql',
             'host' => env('DB_HOST', '157.230.54.163'),
-            'port' => env('DB_PORT', '3306'),
+            'port' => env('DB_PORT', '22'),
             'database' => env('DB_DATABASE', 'forge'),
             'username' => env('DB_USERNAME', 'forge'),
             'password' => env('DB_PASSWORD', 'zvytRInpH0vnYh3smTny'),
@@ -54,6 +54,7 @@ return [
             'prefix_indexes' => true,
             'strict' => false,
             'engine' => null,
+            
         ],
 
         'pgsql' => [
