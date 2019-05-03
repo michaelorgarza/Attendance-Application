@@ -41,7 +41,7 @@
                 </button>
                 <a class="navbar-brand waves-effect waves-dark blue" href="/">
                     <i class="large material-icons">insert_chart</i>
-                    <strong>Attendance MS</strong>
+                    <strong>Attendance</strong>
                 </a>
 
                 <div id="sideNav" href="">
