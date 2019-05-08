@@ -101,7 +101,6 @@
 $(document).ready(function () {
     $('#dataTables-example').dataTable();
 });
-
 function View_detail_function()
 {
     if( {{ !isset($total) ? "true" : "false"}} )
@@ -114,6 +113,5 @@ function View_detail_function()
         Materialize.toast('Select A Subject', 2000);
     }
 }
-
 </script>
 @endsection
